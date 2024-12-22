@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mathan Raj</h1>
-<h3 align="center">Android @ Truecaller</h3>
+<h3 align="center">Android @ TikTok</h3>
 
 - 🔭 I’m currently working on [charter](https://github.com/ImMathanR/charter)
 
